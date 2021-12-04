@@ -4,6 +4,3 @@ Repositório realizado através da aula de Flexbox, da Digital Innovation One - 
 
 
 Projeto integrado ao Bootcamp HTML Web Developer da @digitalinnovationone - ministrado por @SpruceGabriela, feito por meio de 💻️Visual Studio Code
-
-<p align="center">
-  <img scr= Mobile.png>
