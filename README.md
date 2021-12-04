@@ -3,4 +3,4 @@
 Repositório realizado através da aula de Flexbox, da Digital Innovation One - https://digitalinnovation.one/, na qual foi feita a interface de login do Instagram
 
 
-💻️Visual Studio Code
+Projeto integrado ao Bootcamp HTML Web Developer da @digitalinnovationone - ministrado por @SpruceGabriela, feito por meio de 💻️Visual Studio Code
