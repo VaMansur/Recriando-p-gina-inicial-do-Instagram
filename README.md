@@ -4,3 +4,5 @@ Repositório realizado através da aula de Flexbox, da Digital Innovation One - 
 
 
 Projeto integrado ao Bootcamp HTML Web Developer ministrado por @SpruceGabriela, feito por meio de 💻️Visual Studio Code
+
+https://vamansur.github.io/Recriando-pagina-inicial-do-Instagram/
